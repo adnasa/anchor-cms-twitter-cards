@@ -1,0 +1,2 @@
+Name: Twitter Card
+description: Evaluating AnchorCMS API with this plugin.
