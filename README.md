@@ -1,4 +1,3 @@
-
 Twitter card plugin
 ===
 
@@ -10,9 +9,3 @@ I wanted to check out [AnchorCMS](http://anchorcms.com/) since it seemed nice en
 
 Sunday afternoon/evening hack. 
 Pull requests are welcome!
-
----
-
-### License
-
-[GNU GPLv2](http://www.gnu.org/licenses/gpl-2.0.html)
