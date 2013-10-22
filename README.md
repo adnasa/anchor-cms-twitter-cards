@@ -9,3 +9,7 @@ I wanted to check out [AnchorCMS](http://anchorcms.com/) since it seemed nice en
 
 Sunday afternoon/evening hack. 
 Pull requests are welcome!
+
+---
+
+oh and btw... Please don't use this on a production site.
