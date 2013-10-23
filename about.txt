@@ -1,2 +1,4 @@
 Name: Twitter Card
-description: Evaluating AnchorCMS API with this plugin.
+Description: Evaluating AnchorCMS API with this plugin.
+Author name: Adnan Asani
+Author site: http://adnasa.com

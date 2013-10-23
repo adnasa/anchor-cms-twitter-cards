@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * @author Adnan Asani <konjuku@gmail.com>
+ */
 
 function twitter_card() {
     $internals = array(

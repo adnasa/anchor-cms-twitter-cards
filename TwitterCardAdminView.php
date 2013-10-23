@@ -1,5 +1,9 @@
 <?php 
 
+/**
+ * @author Adnan Asani <konjuku@gmail.com>
+ */
+
 use System\View;
 
 class TwitterCardAdminView extends View {

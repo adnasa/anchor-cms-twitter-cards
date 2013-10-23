@@ -1,5 +1,9 @@
 <?php
 
+/**
+ * @author Adnan Asani <konjuku@gmail.com>
+ */
+
 class TwitterCard extends Plugin
 {
     /**
