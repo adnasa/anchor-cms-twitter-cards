@@ -13,7 +13,3 @@ Pull requests are welcome!
 ---
 
 oh and btw... Please don't use this on a production site.
-
----
-
-:)
